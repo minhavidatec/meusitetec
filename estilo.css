@@ -1,0 +1,109 @@
+.img-index {
+  float: right;
+  margin: 20px;
+  width: 600px;
+  height: 600px;
+  border: 9px solid blue;
+  border-radius: 80px;
+  box-shadow: 9px 9px 9px #888;
+  opacity: 0.99999;
+}
+  .imagemredes{
+    float: left;
+    margin: 20px;
+  }
+
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    justify-content: center;
+    flex-direction:  row;
+    padding: 20px;
+    display: flex;
+  }
+
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+  }
+
+  h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+.cabeçalho {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  flex-direction:  row;
+}
+
+P{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  justify-content: center;
+  flex-direction:  row;
+}
+
+.imagemcenter{
+  justify-content: center;
+  flex-direction:  row;
+  padding: 20px;
+  display: flex;
+}
+.img-float {
+  float: left;
+  margin: 20px;
+  width: 350px;
+  height: 500px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  box-shadow: 9px 9px 9px #100;
+  opacity: 0.99999;
+}
+
+.namoro {
+            
+  float: left;
+  margin: 20px;
+  width: 300px;
+  height: 500px;
+  border: 2px solid green;
+  border-radius: 50px;
+  box-shadow: 5px 5px 5px #888;
+  opacity: 0.999;
+}
+
+.img-redes {
+  float: left;
+  margin: 20px;
+  width: 350px;
+  height: 500px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  box-shadow: 9px 9px 9px #100;
+  opacity: 0.99999;
+}
+
+.img-mapapaises {
+  display: block;
+  margin: 20px auto;
+  width: 900px;
+  height: 500px;
+  border: 2px solid red;
+  border-radius: 50px;
+  box-shadow: 1px 1px 1px #000;
+  opacity: 0.99999;
+}
+
+.img-emprego {
+  float: left;
+  margin: 20px;
+  width: 300px;
+  height: 500px;
+  border: 2px solid green;
+  border-radius: 50px;
+  box-shadow: 5px 5px 5px #888;
+  opacity: 0.999;
+}
